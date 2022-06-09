@@ -14,12 +14,23 @@ Develop a model to find the variables which are significant the demand for share
 It will be used by the management to understand and manipulate the business strategy to meet the demand levels and meet the customer's expectations.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Company should focus on the following features:
+a)Company should focus on expanding business during Spring.
+b)Company should focus on expanding business during September.
+c)Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to 2019.
+d)There would be less bookings during Light Snow or Rain, they could probably use this time to serive the bikes without having business impact.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Hence when the situation comes back to normal, the company should come up with new offers during spring when the weather is pleasant and also advertise a little for September as this is when business would be at its best.
+Significant variables to predict the demand for shared bikes
+holiday
+temp
+hum
+windspeed
+Season
+months(January, July, September, November, December)
+Year (2019)
+Sunday
+weathersit( Light Snow, Mist + Cloudy)
 
 
 
