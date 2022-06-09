@@ -16,21 +16,34 @@ It will be used by the management to understand and manipulate the business stra
 ## Conclusions
 Company should focus on the following features:
 a)Company should focus on expanding business during Spring.
+
 b)Company should focus on expanding business during September.
+
 c)Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to 2019.
+
 d)There would be less bookings during Light Snow or Rain, they could probably use this time to serive the bikes without having business impact.
 
 Hence when the situation comes back to normal, the company should come up with new offers during spring when the weather is pleasant and also advertise a little for September as this is when business would be at its best.
-Significant variables to predict the demand for shared bikes
-holiday
-temp
-hum
-windspeed
-Season
-months(January, July, September, November, December)
-Year (2019)
-Sunday
-weathersit( Light Snow, Mist + Cloudy)
+
+Significant variables to predict the demand for shared bikes:-
+a)holiday
+
+b)temp
+
+c)hum
+
+d)windspeed
+
+e)Season
+
+f)months(January, July, September, November, December)
+
+g)Year (2019)
+
+h)Sunday
+
+i)weathersit( Light Snow, Mist + Cloudy)
+
 
 
 
